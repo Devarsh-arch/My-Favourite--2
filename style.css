@@ -1,0 +1,13 @@
+body{
+text-align: center;
+background-color: aqua;
+}
+img{
+width: 200px;
+border: solid;
+padding: 3px;
+border-color: burlywood;
+}
+button{
+text-decoration-color: firebrick;
+}
